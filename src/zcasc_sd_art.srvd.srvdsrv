@@ -1,0 +1,4 @@
+@EndUserText.label: 'exponer articulos'
+define service Zcasc_sd_art {
+  expose zcasc_cds_art_01;
+}
