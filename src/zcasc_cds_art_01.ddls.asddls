@@ -10,5 +10,6 @@
 define view entity zcasc_cds_art_01 as select from zcasc_tab_art
 {
     key id as Id,
-    des1 as Des1
+    des1 as Des1 
+    
 }
